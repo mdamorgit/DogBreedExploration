@@ -1,0 +1,15 @@
+Dog Breed Exploration:
+
+Features:
+- The app can store the name of the dog/cat breed via typing or voice
+- It can save the images also If someone wants to upload
+- It can create a heat map with the dog breed icons and show me the cluster
+- Maybe can create a dog/cat breed hunt for the user with all the world known breed and can tick mark the one user already seen it
+- It can suggest the breed name based on the user query on height, hair color, hair type, eyes or tail etc
+
+Limitation:
+- User cannot click the picture of the dog every time he/she sees it
+- The user can be wrong with the judgement of the dog breed
+- There are mix breeds available which are hard to put into one category
+
+I can be worked like a Pokemon card. 
